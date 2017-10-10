@@ -1,0 +1,6 @@
+A00-1005	PartsID: A Dialogue-Based System For Identifying Parts For Medical Systems
+
+W03-0704	Dialogue Management For An Automated Multilingual Call Center
+W03-1206	HITIQA: An Interactive Question Answering System: A Preliminary Report
+P96-1009	A Robust System For Natural Spoken Dialogue
+J99-3003	Vector-Based Natural Language Call Routing
