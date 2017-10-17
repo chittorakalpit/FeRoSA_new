@@ -1,5 +1,6 @@
-cos_sim/*
+cos/*
 graph/*
+Walker/*
 cosine_similarity.csv
 cosine_similarity_test.csv
 cos_sim.bin.npy
